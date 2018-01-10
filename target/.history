@@ -1,0 +1,4 @@
+run fifo --backend c --targetDir ../fifo --compile --test --genHarness
+run fifo --backend c --targetDir ../fifo --compile --test --genHarness\
+run fifo --backend c --targetDir ../fifo-output --compile --test --genHarness\
+run fifo --backend c --targetDir ../fifo-output --compile --test --genHarness
